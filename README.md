@@ -1,6 +1,7 @@
 # 🤖 Arduino Obstacle Avoiding Robot
 
-![Robot Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg)
+<img width="608" height="386" alt="Screenshot 2026-06-16 194846" src="https://github.com/user-attachments/assets/e8ae2092-14bf-4bdc-9e7a-ce704b064bc9" />
+
 
 > An autonomous robot that detects and avoids obstacles in real-time using an ultrasonic sensor and Arduino UNO.
 
